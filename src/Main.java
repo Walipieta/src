@@ -4,6 +4,8 @@ public class Main {
         dog.feed();
         dog.takeForAWalk();
         dog.takeForAWalk();
+
+
         dog.takeForAWalk();
         dog.feed();
     }
